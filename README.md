@@ -51,7 +51,8 @@ http://localhost:3000/api/documentation/
 
 ## Retos
 
-- Aprender TypeORM, anteriormente he trabajdo con mongoDB
+- Aprender TypeORM, anteriormente he trabajdo con mongoDB y no tiene mucha diferencia en etructurarar las entidades
+- Familizarme con las migraciones
 - Perder el miedo a Docker
 
 
